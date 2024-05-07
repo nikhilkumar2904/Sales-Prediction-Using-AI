@@ -12,3 +12,5 @@ Matplotlib: For creating visualizations such as time series plots, correlation m
 XGBoost: For implementing gradient boosting algorithms.
 
 Tkinter: For developing graphical user interfaces (GUI) for the application
+# Datasets
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDl2OU43UlFyZ1RZa1VPYlduSGQyX2pLVlZ3d3xBQ3Jtc0trQUlvZDYwcGFUd0VtUmVKNWQzeHMzV3JiV2s0Wm54TmZoa0Q3OV9lWmNqb19iRXdsT1FQclRFcWVSdTd6RUQxVUlyeExzOU5FRUpuZGlrRG8wMXdBMHdKdDJSWk9PSHRtaFdUNUZlRUhTZTRtd0pPNA&q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fshivan118%2Fbig-mart-sales-prediction-datasets&v=al67gXF9cS0
